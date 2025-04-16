@@ -1,0 +1,14 @@
+
+hrms
+AdminServer 192.168.29.44 7001
+hospital_1 192.168.29.44 7006
+hospital_2 192.168.29.44 7008
+
+finance 
+AdminServer 192.168.29.44 8001
+finance_1 192.168.29.44 8003
+finance_2 192.168.29.44 8006
+
+tomcat 
+jenkins 192.168.29.44 8080
+
